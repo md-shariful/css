@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: pink;
+}
+th, td{
+color: rgb(173, 86, 86);
+border: 1px solid peru;
+text-align: center;
+padding: 10px;
+}
